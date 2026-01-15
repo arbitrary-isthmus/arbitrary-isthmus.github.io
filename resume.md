@@ -32,7 +32,7 @@ Ever since I was a wee lad I knew I wanted to generate actionable business insig
 - Founded in 1772 by Helmut Pinsington von Slartfutton, 2nd Baron Slartfutton
 - Located in an abandoned cannery in southern Cornwall.
 
-## Master of Fishtickling (MFT): St. Helena College of Ichtyometry
+## Master of Fishtickling (MFT): St. Helena College of Ichthyometry
 - They made the major just for me after I sent them over 2,000 letters begging for it!
 
 # Other
