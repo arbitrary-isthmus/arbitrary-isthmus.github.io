@@ -6,10 +6,10 @@ _Disclaimer: I was informed that no part of this information necessarily had to 
 325 Wollongong Lane
 Iqaluit, Nunavut, Canada 34892-0020
 
-hogtied@aol.com
-
-https://scrungus.club
-
+- [Email](mailto:hogtied@aol.com)
+- [Personal site](https://scrungus.club)
+- [LinkedIn](https://zombo.com)
+- [Facebook](https://yourethemannowdog.com/)
 
 # Summary
 
