@@ -10825,6 +10825,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
+/*  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed; */
+  background: url("https://github.com/arbitrary-isthmus/arbitrary-isthmus.github.io/blob/72f0eca4f66627ab1953164d2729524ffadc170a/assets/rainier.jpg")
   background-size: cover;
 }
