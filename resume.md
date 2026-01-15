@@ -18,7 +18,7 @@ Ever since I was a wee lad I knew I wanted to generate actionable business insig
 
 # Work Experience
 
-- Penal stint in the Infinite Monkey Typewriters **(1876 - 1903)**
+- Punitive stint in the Infinite Monkey Typewriters **(1876 - 1903)**
   - Highlight: flawlessly transcribed a shopping list from 12th century England
 - Founder and CEO of a multi-level marketing scheme that manufactures and sells haunted rubber bracelets **(1907 - 1919)**
   - Made from organic, GMO-free, 100% haunted rubber sourced straight from the Belgian Congo!
@@ -34,6 +34,10 @@ Ever since I was a wee lad I knew I wanted to generate actionable business insig
 
 ## Master of Fishtickling (MFT): St. Helena College of Ichthyometry
 - They made the major just for me after I sent them over 2,000 letters begging for it!
+- Relevant coursework:
+  - FSHT 370 - Trout Flattery
+  - FSHT 500 - Ethical Systems of Molluscs
+  - CULI 201 - Seafood Dishes
 
 # Other
 - Fellow of the Ancient and Fraternal Order of Cranks, Kooks, and Dingbats
@@ -43,6 +47,6 @@ Ever since I was a wee lad I knew I wanted to generate actionable business insig
 # References
 See what glowing testimonies my past friends and colleagues have given!
 
-> This man named Herbert Hogswallop is an affront to decency, society, and nature itself. His crudeness, volatility, incorrigibility and pigheadedness are mere window-dressing to the sheer repellency that exudes from every pore of his vile flesh. His very existence is a pox on humanity, and I wish him a rapid exit from this mortal coil.
+> Herbert Hogswallop is an affront to decency, society, and nature itself. His crudeness, volatility, incorrigibility and pigheadedness are mere window-dressing to the sheer repellency that exudes from every pore of his vile flesh. His very existence is a pox on humanity, and I wish him a rapid exit from this mortal coil.
 
 ― Todd Billings, former employer
