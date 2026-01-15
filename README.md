@@ -42,6 +42,6 @@ Ever since I was a wee lad I knew I wanted to generate actionable business insig
 # References
 See what glowing testimonies my past friends and colleagues have given!
 
-> The existence of this man named Herbert Hogswallop is an affront to decency, society, and nature itself. His crudeness, volatility, incorrigibility and pigheadedness are mere window-dressing to the sheer repellency that exudes from every pore of his vile flesh. His very existence is a pox on humanity, and I wish him a rapid exit from this mortal coil.
+> This man named Herbert Hogswallop is an affront to decency, society, and nature itself. His crudeness, volatility, incorrigibility and pigheadedness are mere window-dressing to the sheer repellency that exudes from every pore of his vile flesh. His very existence is a pox on humanity, and I wish him a rapid exit from this mortal coil.
 
 ― Todd Billings, former employer
